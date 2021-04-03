@@ -1,0 +1,2000 @@
+ls
+cd ..
+cd /
+ls
+cd media/
+ls
+sudo reboot
+osgviewer cessna.osg
+sudo apt-get install openscenegraph
+osgviewer cessna.osg
+osgviewerd cessna.osg
+osgviewer cessna.osg
+cmake
+ls
+cd Pictures/
+ls
+osgviewer image1400.jpg
+osgviewer --picture image1400.jpg
+clear
+sudo apt-get install build-essential
+sudo apt-get install cmake
+sudo apt-get install build-dep openscenegraph
+sudo apt-get build-dep openscenegraph
+mkdir build_OSG
+cd ..
+cd
+ls
+mkdir build_OSG
+cd build_OSG 
+cmake ../OpenSceneGraph -DCMAKE_BUILD_TYPE=Release
+cd /
+ls
+cd bin
+ls *osg
+ls *osg*
+mkd
+cd
+ls
+mkdir build_OSG
+cd build_OSG/
+cmake ../OpenSceneGraph -DCMAKE_BUILD_TYPE=Release
+cmake ../openscenegraph -DCMAKE_BUILD_TYPE=Release
+osgversion
+osgviewer cessna.osg
+osgviewer cow.osg
+osgviewer --image 
+ls
+osgviewer --image ~/Pictures/image229.jpg
+cd Pictures/
+ls
+osgviewer --image Image1632
+osgviewer --image Image1632.jpg
+osgviewer --image Image1636.jpg
+osgviewer --image Image1630.jpg
+osgviewer --image Image1639.jpg
+osgviewer --image Image1640.jpg
+osgviewer --image Image1648.jpg
+cd
+ls
+cd build_OSG/
+cmake ../openscenegraph -DCMAKE_BUILD_TYPE=Release
+cmake ../OpenSceneGraph -DCMAKE_BUILD_TYPE=Release
+cmake ../openscenegraph -DCMAKE_BUILD_TYPE=Release
+cd
+cd openscenegraph/
+ls
+cd OpenSceneGraph-3.0.1/
+;s
+ls
+cd
+cd build_OSG/
+cmake ../openscenegraph/OpenSceneGraph-3.0.1/ -DCMAKE_BUILD_TYPE=Release
+make
+ccmake
+sudo make install ccmake
+ccmake
+sudo make install 
+ccmake
+sudo apt-get install cmake-curses-gui
+ccmake
+osgviewer cessana.osg
+ls
+ls lib
+ls Makefile 
+ls src
+ls applications/
+clear
+ls
+ccmKW
+ccmake
+
+ccmake -G
+ccmake -G ~/om
+ls
+CMakeFiles/
+l;s
+ls
+ccmake -G ~/om
+ls
+clear
+ls
+ls src
+grep *CMakeFile.txt * /*
+grep *CMakeFile.txt * ./*
+sensors
+sudo apt-get install jupiter
+cd /
+ls
+cd etc
+nano modules 
+sudo nano modules
+sudo apt-get install kpowersave
+cd
+ls
+cd osgproject/
+cmake CMake*
+idconfig
+ldconfig
+cd ..
+cd heart-hacker/
+ls
+cd openscenegraph/
+ls
+cd OpenSceneGraph-3.0.1/
+ls
+sudo  ldconfig
+export OSG_DIR=./
+cd ..
+cd
+;s
+ls
+cd osgproject/
+cmake CMake*
+cd
+ls
+cd openscenegraph/
+cd OpenSceneGraph-3`
+cd OpenSceneGraph-3
+cd OpenSceneGraph-3.0.1/
+cd
+cd openscenegraph/
+cd OpenSceneGraph-3.0.1/
+ls
+cd lib
+ls
+export LD_LIBRARY_PATH=./
+glxinfo
+sudo apt-get install mesa-utils
+glxinfo
+cd
+ls
+cd osgproject/
+ls
+cmake CMakeLists.txt 
+du
+df
+export LD_LIBRARY_PATH=./openscenegraph/OpenSceneGraph-3.0.1/include
+ls
+cd osgproject/
+cmake CMakeLists.txt 
+make clean
+ls
+cd openscenegraph/
+cd OpenSceneGraph-3.0.1/
+make clean
+ls
+make
+ls
+cd osgproject/
+nano main.cpp
+ls
+cmake main.cpp
+cmake ./
+make clean ./
+ccmake ./
+cmake ./
+nano CMakeLists.txt 
+cmake ./
+nano CMakeLists.txt 
+cmake ./
+ccmake
+ccmake ./
+cmake CMakeLists.txt 
+nano CMakeLists.txt 
+ls
+make main.cpp
+cmake main.cpp 
+gcc main.cpp
+ls
+clear
+ls
+nano CMakeLists.txt 
+cmake ./
+nano CMakeLists.txt 
+cmake ./
+nano CMakeLists.txt 
+cmake ./
+ls
+make
+nano main.cpp 
+make
+nano main.cpp 
+cd 
+ls
+cd openscenegraph/
+cd OpenSceneGraph-3.0.1/
+s\ls
+cd include/
+ls
+cp osgDB ~/osgproject/
+cp osgDB ~/osgproject
+cp osgDB  ~/osgproject -r
+cp osgViewer  ~/osgproject -r
+cd
+cd osgproject/
+make
+nano CMakeLists.txt 
+nano main.cpp 
+make
+cmake_policy
+cmake_policy set=1
+ls
+cd 
+cd openscenegraph/OpenSceneGraph-3.0.1/
+ls
+cd include/
+ls
+cd osg
+ls
+cd
+cp openscenegraph/OpenSceneGraph-3.0.1/include/osg/Node  osgproject/
+cd osgproject/
+make
+ls
+nano main.cpp 
+make
+ccmake ./
+make
+make clean
+make
+cd ..
+ls
+cd osgproject/
+cmake ./
+make
+gcc make.cpp
+gcc main.cpp 
+nano main.cpp 
+gcc main.cpp
+make main.
+make main.cpp
+make install
+sudo make install
+ls
+rm osg*
+rm osg* -r
+ls
+cmake ./
+make
+ccmake ./
+make
+make clean
+cmake
+cmake ./
+make
+make main.cpp
+make
+make install
+nano main.cpp 
+cp ../openscenegraph/OpenSceneGraph-3.0.1/include/osgDB ./
+cp ../openscenegraph/OpenSceneGraph-3.0.1/include/osgDB ./ -r
+cp ../openscenegraph/OpenSceneGraph-3.0.1/include/osgViewer  ./ -r
+cp ../openscenegraph/OpenSceneGraph-3.0.1/include/osg  ./ -r
+make
+ls
+cmake
+cmake ./
+make 
+nano main.cpp 
+cmake ./
+make 
+ls
+cd osg
+ls
+cat Node
+clear
+ls
+cd ..
+ls
+cmake -DCMAKE_BUILD_TYPE_Release ./
+cmake -DCMAKE_BUILD_TYPE=Release ./
+make
+ccmake ./
+cmake -DCMAKE_BUILD_TYPE=Release ./
+make
+make clean
+make
+ccmake ./
+nano main.cpp 
+cmake -DCMAKE_BUILD_TYPE=Release ./
+make
+ls
+ccmake ./
+cmake ./
+make
+nano CMakeLists.txt 
+ls
+cd openscenegraph/
+cd OpenSceneGraph-Data-3.0.0/
+ls
+cd ls
+cd..
+ls
+cd..
+cd ..
+cd
+ls
+clear
+;s
+ls
+cd openscenegraph/
+cd OpenSceneGraph-
+cd OpenSceneGraph-3.0.1/
+;s
+;a
+ls
+cd include/
+ls
+cd osgDB
+ls
+cd osgproject/
+ls
+cmake
+cmake ./
+make
+make clean
+make
+ccmake ./
+ls
+osgviewer robot.osg
+ls
+cd ../openscenegraph/OpenSceneGraph-Data-3.0.0/
+ls
+osgviewer robot.osg
+export OSG_FILE_PATH=./
+cd
+osgviewer robot.osg
+osgviewer lz.osg
+ccmake 
+ccmake -help
+ccmake --help
+man ccmake
+ls
+setr
+set
+set |head
+set |head -34
+set |head -50
+clear
+export OSG_FILE_PATH=./openscenegraph/OpenSceneGraph-Data-3.0.0
+osgviewer robot.osg
+cd osgproject/
+cmake ./
+make
+cp ../openscenegraph/OpenSceneGraph-3.0.1/include/osgDB ./ -r
+ls
+make 
+nano main.cpp 
+make 
+osgviewer robot.osg
+ls
+make clean
+osgviewer robot.osg
+cd
+osgviewer robot.osg
+cd osgproject/
+nano test.cpp
+cmake ./
+make
+make test.cpp
+;s
+ls
+gcc test.cpp
+nano test.cpp 
+gcc test.cpp
+nano test.cpp 
+gcc test.cpp
+nano test.cpp
+ls
+la osg
+ls
+nano main.cpp 
+cmake ./
+make
+nano main.cpp 
+date
+exit
+sudo add-apt-repository ppa:umang/indicator-stickynotes
+sudo apt-get update
+sudo apt-get install indicator-stickynotes
+sudo add-apt-repository ppa:umang/indicator-stickynot
+sudo add-apt-repository ppa:umang/indicator-stickynotes
+sudo add-apt-repository ppa:noobslab/icons
+sudo apt-get update
+du
+cd /
+du
+df
+ls
+cd /
+ls
+cd mnt
+ls
+ls -a
+cd ..
+ls cdrom/
+ls
+cd cdrom/
+ls
+ls -a
+cd ..
+ls
+cd etc
+ls
+cd ..
+ls
+cd opt
+;s
+ls
+cd ..
+ls
+cd srv
+ls
+ls -a
+cd ..
+ls sys
+ls sys/devices/
+ls
+ls media/
+cd media/heart-hacker/
+ls
+ls Fedora-18-x86_64-Live-KDE.iso/
+ls Fedora-18-x86_64-Live-KDE.iso/ -a
+cd /
+ls
+cd openscenegraph/
+cd OpenSceneGraph-3.0.1/bin/
+ls
+cd ..
+ls
+cd ..
+ls
+cd root/
+ls
+cd ..
+cd usr
+ls
+cd ..
+cd usr/local/
+ls
+cd ..
+ls
+cd media/
+ls
+cd heart-hacker/
+ls
+ls -a
+cd ..
+ls
+cd ..
+ls
+cd dev/
+ls
+cd ..
+ls
+cd var
+ls
+cd lo
+cd local/
+ls
+cd ..
+ls
+cd ..
+ls
+cd tmp
+ls
+cd ..
+ls
+cd sys/
+ls
+cd ..
+ls
+unity
+reset unity
+ls
+cd lost+found/
+ls
+cd..
+cd ..
+cd bin/
+ls
+netstat
+startx
+sudo startx
+ls
+cd /
+ls
+cd tmp
+rm a*
+ls
+rm guest-kIrOU1/ -r
+sudo rm guest-kIrOU1 -r
+ls
+ls -l
+rm libgksu-8J3QhS -r
+cd 
+ls
+cd /
+ls
+sudo reboot
+startx
+unity
+unity 1
+man unity
+unity --reset
+sudo unity --reset
+unity --verbose
+ls
+cd deja-dup/
+ls
+cd hearthacker-HP-Pavilion-g6-Notebook-PC/
+ls
+ls -a
+cd ..
+reboot
+sudo reboot
+ls
+startx
+nano /etc/default/grub
+sudo nano /etc/default/grub
+sudo update-grub
+sudo nano /etc/rc.local 
+sudo reboot
+google-chrome
+ls
+cd /
+ls
+cd media
+ls
+cd heart-hacker/
+ls
+cd
+cd ..
+ls
+cd ..
+ls
+cd mnt
+s
+ls
+cd ..
+cd cdrom/
+ls
+cd ..
+cd home
+ls
+cd lost+found/
+sudo cd lost+found/
+cd /
+ls
+cc home
+cd home
+kls
+ks
+ls
+ls -l
+chmod +rw heart-hacker
+ls -l
+cd heart-hacker
+ls
+ls -l
+ls
+cd /
+ls
+cd media/
+ls
+cd guest-MzEyAn/
+ls
+su
+sudo cd guest-MzEyAn/
+ls -l
+sudo chmod +rw guest-MzEyAn/
+s
+ls
+cd guest-MzEyAn/
+ls -l
+sudo chmod +w guest-MzEyAn/
+ls
+cd guest-MzEyAn/
+ls -l
+su
+ls
+cd heart-hacker/
+ls
+cd ..
+mkdir cddd  guest-MzEyAn/
+mkdir cddd  /guest-MzEyAn/
+cd 
+ls
+vlc chaudhary_amit_trivedi_feat_mame_khan_coke_studio_mtv_season_2_mp3_49899.mp3 
+sudo reboot
+startx
+clear
+ls
+cd
+cd /
+ls
+ls -a
+ls -l
+sudo chmod +rw home
+ls
+cd /
+ls
+cd media/
+ls
+cd heart-hacker/
+ls
+cd b73c10b2-29e4-4c29-b8df-9cf2b14085f6/
+ls
+cd..
+ls
+clear
+ls
+cd ..
+ls
+cd 4433-2211/
+ls
+mkdir mp3\ songs 
+ls
+mv *.mp3 mp3\ songs
+ls
+cd /
+ls
+unity
+passwd
+sudo passwd
+export -p
+ls
+cd 
+ls
+ls -a
+awk '{print}'
+awk '{print}' .face
+awk '{print}' .gconf
+awk '{print}' .gksu.lock
+awk '{print}' .pulse-cookie 
+awk '{print}' .notedb
+awk '{print}' .notedb~LOCK 
+awk '{print}' .dmrc
+awk '{print}' X.ini 
+clear
+ls -a
+awk '{print}'
+awk '{print}' .adobe
+awk '{print}' .bashrc
+awk '{print $1}' .bashrc
+cd /
+cd /etc/
+awk '{print}' passwd
+awk '{print "User " $1 "is using shell " $7}' passwd
+awk '{print $1 " User have " $7    " shell }' passwd
+awk '{print $1 " User have " $7    " shell "}' passwd
+awk '{print $1 " User have " $7 " shell "}' passwd
+awk '{print $7 }' passwd
+awk '{print $1 }' passwd
+awk '{print $2 }' passwd
+awk '{print $3 }' passwd
+awk '{print $4 }' passwd
+awk '{print $5 }' passwd
+awk '{print $1}' passwd
+awk '{print $1}' passwd |uniq -c
+awk '{print $2}' passwd |uniq -c
+awk '{print $3}' passwd |uniq -c
+awk '{print $4}' passwd |uniq -c
+cd
+ls
+ls -a
+awk '{print}' .bash_history
+awk '{print}' .bash_history |uniq -c
+awk '{print}' .bash_history |sort|uniq -c
+awk '{print}' .bash_history |uniq -c| sort
+awk '{print}' .bash_history |uniq -c
+awk '{print}' .bash_history |sort |uniq -c
+awk '{print $1}' .bash_history |sort|uniq -c
+awk '{print $1}' .bash_history |uniq -c
+awk '{print $1}' .bash_history |sort|uniq -c
+awk '{print $NF}'
+awk '{print $NF}' .bash_history 
+clear
+awk '{print NF}' .bash_history 
+awk '{print $NF}' .bash_history 
+awk '{print NR}' .bash_history 
+awk '{print NR}' .bash_history  | head
+awk '{print $NR}' .bash_history  | head
+awk '{print $NR}' .bash_history  | head 90
+awk '{print $NR}' .bash_history  | head -90
+awk '{print $NR}' .bash_history  | head -900
+awk '{print }' .bash_history  | head -900
+unity
+sudo apt-get remove movie-player
+sudo apt-get remove movie player
+sudo apt-get remove Movie-Player
+ls -l
+ls -s
+ls -lF
+ls -lF | awk '{print NF " " $NF-1}'
+ls -lF | awk '{print NF " " }'
+ls -lF | awk '{print $NF " " }'
+ls -lF | awk '{print $NF " " $($NF-1) }'
+ls -lF | awk '{print $NF " " $$NF-1 }'
+ls -lF | awk '{print $NF " " $2 }'
+ls -lF | awk '{print $NF " " $3 }'
+ls -lF | awk '{print $NF " " $4 }'
+ls -lF | awk '{print $NF " " $5 }'
+ls -lF | awk '{print $NF "   " $5 }'
+ls -lF | awk '{print $NF "\t" $5 }'
+ls -lF | awk '{print $NF "\n" $5 }'
+ls -lF | awk '{print $NF "\n" $5 }' |sort -rn
+ls -lF | awk '{print $NF "\t" $5 }' |sort -rn
+ls -lF | awk '{print $NF "\t" $5 }' |sort -r
+ls -lF | awk '{print $NF "\t" $5 }' |sort -n
+ls -lF | awk '{print $NF "\t" $5 }' |sort -rn
+ls -lF | awk '{print $NF "\t" $5 }' |sort -rn|head
+ls -l
+sort -rn
+ls -l |sort -rn
+ls -l | awk '{print $5}'
+ls -l | awk '{print $5}' |sort
+ls -l | awk '{print $5}' |sort -rn
+ls -l | awk '{print $5 "\t" $NF}' |sort -rn
+ls -l | awk '{print $5 "\t" $NF}' |sort -rn | less 
+ls -l | awk '{print $5 "\t" $NF}' |sort -rn | tail
+ls -l | awk '{print $5 "\t" }' |sort -rn | tail
+ls -l | awk '{total=total+$5 print total }' |sort -rn | tail
+ls -l | awk '{total=total+$5; print total }' |sort -rn | tail
+ls -l | awk '{total=total+$5; print total }' |sort -rn |  tail
+ls -l | awk '{total=total+$5; print total }' |sort -rn |  head
+ls -l | awk '{total=total+$5; print total }' |sort -rn 
+ls -l | awk '{print $5 }' |sort -rn |head
+nf
+NF
+df
+ds
+du
+ls -l -r
+ls *D -l
+ls D* -l
+ls D* -lF
+clear
+du
+du |tail
+du | awk '{print $1 "   " $3}'
+ls
+ls -l
+ls -l | sed 's/4096/ / d'
+ls -l | sed ' s /4096/ / d'
+ls *  -l 
+ls *  -l |awk '{ print $5}' 
+ls *  -l |awk '{total+=$5} END {  print total}' 
+ls *  -l |awk '{total+=$5} END {  print total%100}' 
+ls *  -l |awk '{total+=$5} END {  print total%1000000}' 
+ls *  -l |awk '{total+=$5} END {  print total%1000000000}' 
+ls *  -l |awk '{total+=$5} END {  print total%1000000}' 
+ls *  -l |awk '{total+=$5} END {  print total%1000}' 
+ls *  -l |awk '{total+=$5} END {  print total%100}' 
+ls *  -l |awk '{total+=$5} END {  print "you have total " total " bytes Across "NR " Files"}' 
+ls *  -l |awk '{total+=$5} END {  print "you have total " total%1000 " bytes Across "NR " Files"}' 
+ls *  -l |awk '{total+=$5} END {  print "you have total " total%1000000 " bytes Across "NR " Files"}' 
+ls *  -l |awk '{total+=$5} END {  print "you have total " total%1000000 "Kilo bytes Across "NR " Files"}' 
+ls *  -l |awk '{total+=$5} END {  print "you have total " total%1000000 " Kilo bytes Across "NR " Files"}' 
+ls *  -l |awk '{total+=$5} END {  print "you have total " total%1000000000 " Kilo bytes Across "NR " Files"}' 
+osgversion
+export OSG_FILE_PATH=/home/heart-hacker/openscenegraph/OpenSceneGraph-Data-3.0.0
+osgviewer robot.osg
+ls -a
+cat .bashrc 
+nano .bashrc
+osgviewer robot.osg
+osgviewer robot
+osgviewer robot.os
+osgviewer robot.osg
+ls
+ccmake ./
+ls
+cd openscenegraph/
+ls
+cd OpenSceneGraph-
+cd OpenSceneGraph-3.0.1/
+ls
+ccmake ./
+osgviewer robot.osg
+cmake./
+cd ..
+cd 
+ls
+cd osgproject/
+ls
+ccmake ./
+osgviewer robot.osg
+cmake ./
+cd program-2
+ls
+cmake ./
+nano CMakeLists.txt 
+cd osgproject/
+ls
+cd program-2
+ls
+ls -l
+ls
+cmake CMakeLists.txt
+cmake CMakeLists.txt -Wno-dev
+ccmake ./
+cmake ./
+make
+ccmake ./
+cmake ./
+make
+ccmake ./
+cmake ./
+clear
+cmake ./
+make
+cmake ./
+make
+make 
+ccmake ./
+make
+ls
+cd o
+cd openscenegraph/
+ls
+cd ../osgproject/
+ls
+cd program-2
+ls
+nano CMakeLists.txt 
+cmake
+cmake ./
+clear
+cmake ./
+ccmake ./
+clear
+ls
+cd Downloads/
+ls
+mv *linux* -i ../Linux/
+ls
+cd ..
+ls
+cd Linux/
+ls
+cd ..
+cd Downloads/
+ls
+ls |grep linux -i
+ls |grep linux -i |mv ../Linux
+ls
+ls *flv
+mv \[HowTo\]\ Install\ Gnome\ Shell\ on\ Ubuntu\ Linux.flv ../Linux/
+ls *flv
+mkdir Video |mv *flv 
+ls *flv
+ls Video/
+mv *flv Video/
+ls *flv
+ls *.flv
+ls
+mv *pdf Pdfs'
+;
+mv *pdf Pdfs
+mkdir Books
+mv *pdf Books/
+ls
+Ek\ Thi\ Guncha\ by\ Anu\ Singh\ -\ Season\ 2.MP3
+exec Ek\ Thi\ Guncha\ by\ Anu\ Singh\ -\ Season\ 2.MP3
+./Ek\ Thi\ Guncha\ by\ Anu\ Singh\ -\ Season\ 2.MP3
+sudo  ./Ek\ Thi\ Guncha\ by\ Anu\ Singh\ -\ Season\ 2.MP3
+./Ek\ Thi\ Guncha\ by\ Anu\ Singh\ -\ Season\ 2.MP3
+ls -l Ek\ Thi\ Guncha\ by\ Anu\ Singh\ -\ Season\ 2.MP3
+vlc Ek\ Thi\ Guncha\ by\ Anu\ Singh\ -\ Season\ 2.MP3
+ls Ek\ Thi\ Guncha\ by\ Anu\ Singh\*
+ls Ek*
+ls Ek* -l
+rm Ek\ Thi\ Guncha\ by\ Anu\ Singh\ -\ Season\ 2.MP3.part 
+ls
+mv *mp3 ../Music/
+ls *mp3
+ls 
+mv *mp3 -i  ../Music/
+mv *mp3  ../Music/
+mv *MP3  ../Music/
+ls
+ls -F
+mv *mp4 Video/
+ls
+ls -l
+ls -l | awk '{if($5 == 4096) print }'
+ls * -l | awk '{if($5 == 4096) print }' 
+clear
+cd /
+ls * -l | awk '{total=total+$5} END {print total}'
+ls * -l | awk '{total=total+$5} END {print total%1024*1024}'
+ls * -l | awk '{total=total+$5} END {print total%(1024*1024*1024)}'
+ls * -l | awk '{total=total+$5} END {print total%(1024*1024)}'
+ls * -l | awk '{total=total+$5} END {print total%(1024)}']
+cat << EOF
+>
+l;;;
+
+
+
+cat << EOF > script
+{total = total+$5} END {print total } EOF
+
+ls -l | awk -f script
+ls
+cd openscenegraph/
+cd OpenSceneGraph-3.0.1/
+ls
+cd doc
+ls
+cd Doxyfiles/
+ls
+cd ..
+cd Open
+cd OpenThreadsReferenceDocs/
+ls
+cd ..
+cd..
+cd ..
+ls
+clear
+ls
+cd include/
+ls
+cd ..
+ls * -l | grep ITKconfi.cmake
+ls * -l | grep ITKconfig
+ls * -l | grep ITK
+ls *  | grep ITK
+ls
+ls *
+ls * |grep  *ITK*
+ls * |grep  ITK*
+ls * |grep  *ITK
+ls * |grep  *.cmake
+ls * |grep  *cmake
+ls * 
+ls * | grep *.cmake 
+ls * | more
+ls
+cd ..
+cd D
+cd Downloads/
+ls
+cd OpenSceneGraph-3.0.1/
+ls
+cd examples/
+ls
+cd osgkeyboard
+ls
+cmake ./
+ls
+cd openscenegraph/
+cd ../osgproject/
+mkdir program_!
+ls
+mv C* program_\!/
+ls
+mv o* program_\!/
+ls
+mv -i  m* program_\!/ 
+ls
+mv test.cpp Node Makefile cmake_install.cmake  program_\!/
+;s
+ls
+mkdir program-2
+ls
+cd program-2/
+ls
+clear
+nano test.cpp
+ls
+gcc test.cpp
+cd ..
+;s
+ls
+cd program
+cd program!
+cd program_\!/
+ls
+cp CMakeLists.txt ../program-2/
+cd ../program-2
+ls
+cmake 
+cmake ./
+make 
+make ./
+ls
+make
+make install
+cmake ./
+ls
+make install
+gcc test.cpp 
+./
+CMakeFiles
+cd CMakeFiles
+ls
+..
+cd ..
+ls
+nano CMakeLists.txt 
+cmake
+cmake ./
+ccmake
+ccmake ./
+osgversion
+osglogo
+ls
+cd openscenegraph/
+cd OpenSceneGraph-3.0.1/
+ls
+cd examples/
+cd osgbillboard/
+ls
+cmake ./
+cd ~/osgproject/program-2/
+ls
+nano test.cpp 
+cmake ./
+make
+ls
+cd ~/openscenegraph/OpenSceneGraph-3.0.1/include/
+ls
+cd osg
+ls
+ls R*
+nano Referenced 
+cat Referenced| grep ref_ptr* 
+more Referenced 
+clear
+ls
+cd ~
+ls
+cd osgproject/
+cd program-2
+l;s
+ls
+nano test.cpp 
+make
+cmake
+cmake ./
+make
+nano CMakeLists.txt
+cmake ./
+nano CMakeLists.txt.backup 
+nano CMakeLists.txt
+cmake ./CMakeLists.txt
+ccmake ./
+ls
+grep -l -i  linux  ./*
+grep -l -i  linux  ./Downloads/
+grep -l -i  linux  ./Downloads/*
+grep -l -i  linux  ./Linux
+grep -l -i  linux  ./Linux/*
+cd Linux/
+nano test.c
+cd 
+grep -l -i linux ./linux/*
+grep -l -i linux ./Linux/*
+grep -l -i linux ./*
+grep -l -i linux ./*/*
+ls * |grep -l -i linux 
+ls
+vi
+ls
+cat .profile 
+ls > vid
+vi vid
+ls
+cd Downloads/
+ls
+ls |ore
+ls |more
+ls * 
+ls * | vid
+ls * > vid
+ls
+vi vid
+vi bukra
+ls
+cd openscenegraph/
+ls 
+ls
+rm OpenSceneGraph-3.0.1
+rm OpenSceneGraph-3.0.1 -r
+ls
+sudo rm -r OpenSceneGraph-3.0.1
+ls
+mkdir OpenSceneGraph_Essentials
+mv *zip OpenSceneGraph_Essentials/
+ls
+mv *7z OpenSceneGraph_Essentials/
+ls
+vi node
+ls
+vi node
+cat node
+vi node
+ls
+ls ./Downloads > node
+vi node
+vi node -R
+vi +$ node
+vi +/ls node
+vi +3 node
+vi +/omprakash node
+ls
+vi node
+ls
+ls kis
+ls kis -l
+vi node lak
+ls
+cd osgproject/
+ls
+cd program-2
+ls
+nano CMakeLists.txt
+rm CMakeLists.txt
+cd 
+cd osgproject/program_\!/
+cp CMakeLists.txt ../program-2/
+cd ../program-2
+ls
+nano CMakeLists.txt
+nano test.cpp 
+cmake ./
+nano CMake
+nano CMakeLists.txt
+cmake ./
+make 
+cd CMakeFiles/MyProject.dir/ 
+nano DependInfo.cmake
+cd ../..
+ls
+make 
+nano test.cpp 
+make test.
+make test.cpp
+make install
+make
+sudo add-apt-repository ppa:n-muench/calibre
+sudo apt-get update
+sudo apt-get install calibre
+ls
+cd ..
+ls
+cd heart-hacker/
+ls
+cd Downloads/
+ls
+cp OpenSceneGraph-3.0.1.zip ../OpenSG
+cd ..
+ls
+pzip OpenSG 
+ls -l OpenSG 
+rm OpenSG 
+mkdir OpenSg
+cd Downloads/
+mv OpenSceneGraph-3.0.1.zip  ../OpenSg/
+cd ../OpenSg/
+ls
+xzip OpenSceneGraph-3.0.1.zip 
+pzip OpenSceneGraph-3.0.1.zip 
+decompress OpenSceneGraph-3.0.1.zip 
+zip OpenSceneGraph-3.0.1.zip 
+ls
+cd OpenSceneGraph-3.0.1/
+ls
+./configure
+make
+make -j4 
+make 
+make VERBOSE=1
+ls
+cd Downloads/
+ls * > Items_In_Download(Ubuntu 12.10)
+ls * > Items_In_Download-ubuntu12.10
+ls
+ls -l
+ls *mp3
+rm *mp3 
+ls
+ls *flv
+mkdir crime-patrol
+mv *20* crime-patrol/
+ls *flv
+cd crime-patrol/
+ls
+ls '[BM]'
+ls '[BM]*'
+ls *'[BM]*'
+ls '^[BM]*'
+ls '[^BM]*'
+ls 
+mv Discovery.Fantastic.Festivals.Season.1.The.Rath.Yatra.Festival.HDTV.x264.720p.AC3.MVGroup.org.mkv Dhinka\ Chika\ 720p\ -\ Ready\ \[Funmaza.com\].wmv Inception\ \(2010\)\ BRRip\ 720p\ x264\ \[Dual\ Audio\]\ \[Hindi\ 5.1+English\ 5.1\]--prisak--\{HKRG\}/ Open\ Source\ For\ You\ -\ Top\ 10\ Cloud\ Computing\ Resources\ \(February\ 2013\)/ Road\ to\ Sangam\ 2009\ Hindi\ Repack\ DVDRip\ XviD\ E-SuB\ xRG/ Table\ No\ 21\ 2013\ Hindi\ 720p\ HDrip\ x264...Hon3y/ Total\ Film\ -\ The\ Most\ Wanted\ Movies\ for\ 2013\ \(February\ 2013\)/ ../
+ls
+cd ..
+ls
+vlc mahiya.VOB 
+rm mahiya.VOB 
+vlc videoplayback\(3\) 
+rm videoplayback\(3\) 
+ls
+rm xfactor\ shreya\ ghoshal\ singing\ lag\ ja\ gale.flv 
+mkdir Movies
+mv Table\ No\ 21\ 2013\ Hindi\ 720p\ HDrip\ x264...Hon3y/ Movies/
+ls
+mv Total\ Film\ -\ The\ Most\ Wanted\ Movies\ for\ 2013\ \(February\ 2013\)/ Books/
+mv Open\ Source\ For\ You\ -\ Top\ 10\ Cloud\ Computing\ Resources\ \(February\ 2013\)/ ../Linux/
+ls
+rm CMakeLists.txt 
+rm Beginning\ Ubuntu\ Linux\ 6th\ Edition/ ../Linux/
+mv Beginning\ Ubuntu\ Linux\ 6th\ Edition/ ../Linux/
+ls
+mv Qt\ essentials/ ../
+rm MummyStuffs/
+rm MummyStuffs/ -r
+ls
+mv *jpg Pictures/
+;s
+ls
+cd video
+ls
+cd 
+cd Vi
+cd Videos/
+ls
+cd 
+cd Downloads/
+ls
+rm Dhinka\ Chika\ 720p\ -\ Ready\ \[Funmaza.com\].wmv  
+rm linux-Ubuntu-x86-release.7z 
+ls
+rm asd12212/ -r
+ls
+mv The\ 4000\ English\ Words\ Essential\ for\ an\ Educated\ Vocabulary/ Books/
+;s
+ls
+rm Discovery.Fantastic.Festivals.Season.1.The.Rath.Yatra.Festival.HDTV.x264.720p.AC3.MVGroup.org.mkv 
+ls
+ls -1
+clear
+ls
+rm Prison\ Break\ -\ Complete/
+rm Prison\ Break\ -\ Complete/ -r
+ls
+cat vid
+ls
+vi vid Items_In_Download-ubuntu12.10 
+ls
+rm vid
+ls
+rm lag\ ja\ gale\ instrumental.flv 
+ls
+clear
+ls
+sudo apt-get install calibre
+cd OpenSg/
+cd OpenSceneGraph-3.0.1/
+ls * | grep ITK*
+ls * | grep IT
+ls * | grep ITK
+ls * | grep ITK -i
+ls * | grep ITK* -i
+ls * | grep ITKConfig.cmake  -i
+cd OpenSg/project/
+ls
+nano main.cpp
+cmake ./
+make
+nano main.cpp
+make
+cmake ./
+make
+cd /
+ls
+cd usr
+;s
+ls
+cd local
+;s
+ls
+cd include/
+ls
+ls -a
+idconfig
+ldconfig
+sudo ldconfig
+cd /
+cd sbin/
+ls
+ls ld*
+more ldconfig
+ls ld.so*
+ldconfig
+cat ldconfig.real 
+lear
+clear
+cd ..
+cd etc
+ls
+cat ld.so.conf
+cp ld.so.conf.backup
+cp ld.so.conf.backup ./
+cp ld.so.conf ./ld.so.conf.backup
+sudo cp ld.so.conf ./ld.so.conf.backup
+ls
+cd ld.so.conf
+cat  ld.so.conf
+nano ld.so.conf
+sudo nano ld.so.conf
+sudo ldconfig
+cd 
+cd OpenSg/project/
+cmake ./
+make 
+nano main.cpp 
+cmake ./
+make
+nano main.cpp
+make
+cmake ./
+make
+nano main.cpp 
+cmake ./
+make
+nano main.cpp 
+cmake ./
+make 
+nano main.cpp
+cmake ./
+make 
+ls
+cd OpenSg/
+ls
+cd OpenSceneGraph-
+ccmake ./
+mkdir project \1
+ls
+rm 1
+rm 1 -r
+ls
+rm CMake*
+rm CMake* -r
+ls
+cd project
+ls
+vim CMakeLists.txt
+vi CMakeLists.txt
+nano CMakeLists.txt 
+nano main.cpp
+cd ../OpenSceneGraph-Data-3.0.0/
+ls
+osgviewer osgcool.osgt
+osgviewer Images/osg
+cd Images/
+ls
+osgviewer red.tga
+osgviewer smoke.rgd
+cd ..
+ls
+osgviewer lz.osg
+cp robot.osg ../project/
+cd ../project/
+s
+ls
+cmake 
+cmake ./
+cd ..
+ls
+cd OpenSg/
+ls
+cd OpenSceneGraph-3.0.1/
+ls
+mkdir build_OpenSceneGraph
+cd build_OpenSceneGraph/
+cd ..
+cd O
+ls
+cd ..
+ls
+mkdir build_OpenSceneGraph
+cd build_OpenSceneGraph/
+ccmake ../OpenSceneGraph-3.0.1
+ls
+ls -a
+cd ..
+ls
+cd build_OpenSceneGraph/
+ls
+ccmake ../OpenSceneGraph-3.0.1/
+make
+ccmake ../OpenSceneGraph-3.0.1/
+make
+make ./
+apt-get install cmake-gui
+sudo apt-get install cmake-gui
+cmake-qt-gui
+ls
+make
+make install
+ccmake ../
+ls
+cd ..
+ls
+cd OpenSg/build_OpenSceneGraph/
+ls
+cd include/
+ls
+cd OpenThreads/
+ls
+cp Config ../../../OpenSceneGraph-3.0.1/
+cp ../osg/Config ../../../OpenSceneGraph-3.0.1/
+cd ..
+cd
+ls
+nano .bashrc 
+ls
+cd OpenSg/build_OpenSceneGraph/
+ls
+cd
+nano .bashrc 
+cd OpenSg/project/
+ls
+vi CMakeLists.txt 
+cd
+ls
+cd openscenegraph/
+ls
+cd ../OpenSg/project/
+;s
+ls
+clear
+cd
+setenv OSG_ROOT=home/heart-hacker/OpenSG/build_OpenSceneGraph/
+ls
+ls -a
+nano .profile 
+export OSG_ROOT=home/heart-hacker/OpenSG/build_OpenSceneGraph/
+find_path(OSG_ROOT)
+export 
+export OSG_ROOT=home/heart-hacker/OpenSG/build_OpenSceneGraph
+find_path(OSG_ROOT)
+echo $OSG_ROOT
+ls
+cd OpenSg/
+ls
+cd project/
+ls
+cmake ./
+ccmake ../
+ls
+ccmake ./
+osgviewer robot.osg
+ls
+cd ..
+ls
+echo $OSG_ROOT
+ls
+cd build_OpenSceneGraph/
+ls
+cd ../project/
+nano CMakeLists.txt 
+cmake ./
+cmake
+cmake cmake/
+cmake ./
+nano CMakeLists.txt 
+cmake ./
+nano CMakeLists.txt 
+cmake ./
+OSG_ROOT/
+OSG_ROOT
+$OSG_ROOT
+/OSG_ROOT
+_OSG_ROOT
+_OSG_ROOT/
+echo OSG_ROOT
+echo $OSG_ROOT
+$OSG_ROOT/
+cd $OSG_ROOT/
+cd $OSG_ROOT
+ls
+cd 
+cd $OSG_ROOT
+cd $OSG_ROOT/lib
+export OSG_ROOT=/home/heart-hacker/OpenSg/build_OpenSceneGraph
+cd $OSG_ROOT
+ls
+cd ..
+ls
+cd project/
+ls
+cmake ./
+cd OSG_ROOT
+cd $OSG_ROOT
+cd ..
+ls
+cd project/
+ls
+nano CMakeLists.txt 
+CMAKE ./
+cmake ./
+ls
+vi main.cpp 
+make
+ccmake ./
+make
+nano main.cpp 
+make
+make install
+ls
+./Makefile
+ls -l
+make
+ls ..
+cd build/
+ls
+cd ..
+ls
+cd build_OpenSceneGraph/
+ls
+cd include/
+ls
+make 
+make ./
+make am--refresh
+ls
+cd ..
+ls
+cd project/
+ls
+make
+cd ../build_OpenSceneGraph/include/osgDB/
+;s
+ls
+make
+make ReadFile
+ls -l
+ls
+cd ..
+ls
+cd ..
+ls
+cd project/
+ls
+nano main.cpp 
+make
+clear
+make
+nano main.cpp
+make
+cd ../build_OpenSceneGraph/include/osgDB/
+cat ReadFile | grep osg
+cd ..
+cd project/
+nano main.cpp 
+make
+cmake 
+cmake ./
+make
+
+ls
+ccmake ./
+cmake ./
+make 
+nano main.cpp 
+cat ../build_OpenSceneGraph/include/osgDB/ReadFile | grep osgDB
+cat ../build_OpenSceneGraph/in
+make
+make main.
+make main.cpp
+ls
+./Makefile
+make
+nano main.cpp 
+make
+nano main.cpp 
+make
+nano main.cpp 
+make
+cmake ./
+make
+nano main.cpp
+more ../build_OpenSceneGraph/include/osg
+more ../build_OpenSceneGraph/include/osgDB/ReadFile 
+ls
+cd ../build_OpenSceneGraph/
+ls
+cd include/
+s
+ls
+cd osgDB
+ls
+cd ..
+ls
+cd osgViewer/
+ls
+more Viewer
+ls
+cd ..
+cd osgDB/
+ls
+cat ReadFile | grep readFileNode
+cat ReadFile | grep readnode*
+cat ReadFile | grep readNode*
+ls
+cd OpenSg/build_OpenSceneGraph/
+ls
+cd include/
+ls
+cd osgDB/
+ls
+cd ..
+ls
+cd osg
+ls
+cs OpenSg/project/
+cd OpenSg/project/
+cmake ./
+make 
+nano main.cpp 
+cmake ./
+make
+nano main.cpp
+make
+nano main.cpp 
+make
+nano main.cpp 
+cp main.cpp main.cpp.backup
+rm main.cpp
+nano main.cpp
+cmake ./
+make
+make install
+./main.o
+ls
+./MyProject 
+ls
+nano main.cpp
+cmake ./
+make 
+nano main.cpp
+make
+cmake
+cmake ./
+make
+nano main.cpp
+cmake ./
+make
+nano main.cpp
+make
+nano main.cpp
+y
+cmake ./
+make 
+ls
+nano main.cpp
+clear
+las
+ls
+cd
+ls
+rm Madagascar\ 3\ Europe\'s\ Most\ Wanted\ \(2012\)\ \ m-HD\ \ 720p\ \ Hindi\ \ Eng\ \ BHATTI87/ -r
+ls
+osgviewer robot.osg
+lx
+ls
+cd OpenSg/
+ls
+cd build_OpenSceneGraph/
+ls
+cd ..
+ks
+ls
+cd OpenSceneGraph-
+cd OpenSceneGraph-3.0.1/
+;s
+ls
+cd examples/
+ls
+cd ..
+ls
+cd ..
+ls
+cd OpenSceneGraph-D
+cd OpenSceneGraph-Data-3.0.0/
+;s
+ls
+osgviewer avatar.osg 
+osgviewer axes.osgt 
+ls
+cd ..
+ls
+cd project/
+ls
+./MyProject 
+nano main.cpp 
+nano program_memory_mgmt 
+cd ..
+ls
+cd ..
+ls
+cd openscenegraph/
+ls
+cd OpenSceneGraph
+cd OpenSceneGraph-Data-3.0.0/
+;s
+ls
+osgviewer spaceship.osgt 
+osgviewer skydome.osgt 
+osgviewer cow.osg
+ls
+cd ..
+ls
+cd OpenSg/
+ls
+cd OpenSceneGraph-3.0.1/
+;s
+ls
+cd examples/
+ls
+cd osglog
+cd osglogo
+ls
+cmake ./
+ls
+cmake ./
+nano osglogo.cpp 
+cd ..
+ls
+cd ..
+ls
+cd 
+cd OpenSg/
+ls
+osgviewer osglogo.osg
+osgviewer osglogo.osgt
+cd project/
+ls
+nano main.cpp
+cmake ./
+make 
+cd 
+ls
+cd osgproject/
+ls
+nano test.cpp
+cd ..
+ls
+cd 
+cd OpenSg/
+cd 
+cd openscenegraph/
+ls
+cd OpenSceneGraph
+cd OpenSceneGraph_Essentials/
+ls
+cd ..
+ls
+cd OpenSceneGraph-3.0.1-Ubuntu-x86-release-12741/
+ls
+cd 
+cd OpenSg/
+cd OpenSceneGraph-3.0.1/
+ls
+cd examples/
+ls
+cd osgcopy
+ls
+nano osgcopy
+nano osgcopy.cpp 
+cp osgcopy.cpp ../../../project/
+cd ../../../project/
+ls
+nano CMakeLists.txt 
+cmake ./
+make 
+nano CMakeLists.txt 
+make 
+make install
+./MyProject 
+./MyProject robot.osg
+./MyProject sky.osg
+./MyProject cow.osg
+cd ..
+ls
+cd OpenSceneGraph-Data-3.0.0/
+ls
+cd lz.osg
+osgviewer lz.osg
+osgviewer clock.osgt 
+osgviewer SmokeBox.osgt 
+osgviewer cessna.osg
+osgviewer spaceship.osgt 
+osgviewer osg64.logo 
+ls
+cd
+ls
+cd Images/
+ls
+osgviewer --image Photo0165.jpg 
+cd
+ls
+cd OpenSg/
+ls
+cd OpenSceneGraph-Data-3.0.0/
+ls
+cd Images/
+ls
+cd ..
+ls
+osgviewer nathan.osg 
+ls
+osgviewer glider.osg
+osgviewer introduction.p3d 
+osgviewer cd osgWidget/
+ls
+cd osgWidget/
+ls
+osgviewer osgwidgetshader-frag.glsl 
+osgviewer osgwidgetshader-vert.glsl 
+osgviewer osgwidgetwindow.py
+cd ..
+ls
+cd ,,.
+cd
+ls
+cd openscenegraph/
+ls
+cd OpenSceneGraph-Data-3.0.0/
+ls
+cd ..
+ls
+cd OpenSg/
+ls
+cd OpenSceneGraph-3.0.1/
+ls
+cd examples/
+ls
+cd osgspacewarp/
+ls
+cp * ~/OpenSg/project/
+cd
+cd OpenSg/
+ls
+cd project/
+ls
+nano CMakeLists.txt 
+cd ..
+ls
+cd 
+ls
+cd osgproject
+ls
+cd program-2/
+l
+nano CMakeLists.txt
+ls
+cd 
+ks
+cd OpenSg/
+ls 
+cd project/
+ls
+ls -l
+rm CMake*
+rm CMake* -r
+ls
+rm *ake 
+ls
+clear
+ls
+rm shallow_copy.osgt 
+rm osgspacewarp.cpp original.osgt Makefile graph_copy.osgt MyProject deep_copy.osgt 
+ls
+rm osgcopy.cpp 
+ls
+cd
+ls
+cd openscenegraph/
+ls
+cd OpenSceneGraph
+ls
+cd
+ls
+cd osgproject/
+ls
+cd program!
+cd program_!
+ls
+cp CMakeLists.txt ~/OpenSg/project/
+cd
+ls
+cd OpenSg/
+cd project/
+ls
+nano CMakeLists.txt 
+cmake ./
+nano CMakeLists.txt 
+cmake ./
+
+nano CMakeLists.txt 
+echo $OSG_DIT
+echo $OSG_DIR
+export OSG_DIR=/home/heart-hacker/OpenSg/OpenSceneGraph-3.0.1/
+export OSG_DIR=/home/heart-hacker/OpenSg/OpenSceneGraph-3.0.1
+cmake ./
+clear
+cmake ./
+cmake-gui
+make
+main.cpp
+nano main.cpp 
+ls
+export $export LD_LIBRARY_PATH=/home/heart-hacker/OpenSg/build_OpenSceneGraph/lib
+make
+cmake-gui
+ls
+nano main.cpp
+make
+cmake ./
+nano CMakeLists.txt 
+cmake ./
+nano CMakeLists.txt 
+cmake ./
+nano CMakeLists.txt 
+cmake ./
+nano CMakeLists.txt 
+echo $INCLUDE_DIR
+echo $OSG_DIR
+export OSG_DIR=/home/heart-hacker/OpenSg/build_OpenSceneGraph
+cmake ./
+clear
+make clean
+ls
+cmake ./
+ccmake ./
+export ls
+ccmake
+cmake-gui
+ls
+cd OpenSg/
+ls
+cd project/
+ls
+nano main.cpp.save 
+mv main.cpp.save ./Program_i_compiled/
+ls
+mv main.cpp ./Program_i_compiled/
+ls
+nano main.cpp
+make
+nano main.cpp 
+make
+./MyProject 
+nano main.cpp 
+make
+./MyProject 
+nano main.cpp 
+make
+./MyProject 
+nano main.cpp 
+./MyProject 
+make
+./MyProject 
+nano main.cpp 
+make
+nano main.cpp 
+make
+./MyProject 
+nano main.cpp 
+make
+./MyProject 
+nano main.cpp 
+make
+./MyProject 
